@@ -1,6 +1,6 @@
 ##Darain
 
-![Banner image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbanner&psig=AOvVaw1TgwKRjByXYe-VB6Lt1-tw&ust=1719321190536000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPipgtio9IYDFQAAAAAdAAAAABAE)
+![Banner image](https://static.vecteezy.com/system/resources/thumbnails/002/292/582/small_2x/elegant-black-and-gold-banner-background-free-vector.jpg)
 
 - In the future I would like to attain a job in the tech sector so I have the ability to implement new technologies and ideas into the world especially with AI as it is taking off
 
